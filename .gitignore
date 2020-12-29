@@ -1,0 +1,15 @@
+data/*
+__pycache__/*
+
+*.csv
+*.tsv
+*.xlsx
+*.pkl
+*.zip
+*.npz
+*.html
+
+*.pyc
+*.txt
+*.png
+*.jpg
