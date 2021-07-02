@@ -2,7 +2,10 @@
 
 ---
 ### 队伍简介
-队名：GradientBoostingTeam，队长：鱼丸粗面(zhuoyin94@163.com)。复赛流测评最高排名：136/4345（Silver，20210621），20201226开赛。
+队名：GradientBoostingTeam，队长：鱼丸粗面(zhuoyin94@163.com)，20201226开赛。
+
+20210621: 77/4245(Top 1.81%, Silver)
+20210607: 136/4245(Top 3.2%, Silver)
 
 ---
 ### 方案简介
